@@ -11,7 +11,7 @@ header {
 }
 nav {
   border: 1px solid red;
-  height: 50px;
+  height: 48px;
   width: 800px;
 }
 section {
@@ -34,7 +34,7 @@ aside {
   }
 footer {
   border: 1px solid red;
-  height:90px;
+  height:89px;
   width: 800px;
   float: down;
   clear: both;
