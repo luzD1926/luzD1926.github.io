@@ -10,8 +10,8 @@ header {
   width: 800px;
 }
 nav {
-  border: 1px solid red;
-  height: 48px;
+  border: 1px solid yellow;
+  height: 46px;
   width: 800px;
 }
 section {
@@ -33,8 +33,8 @@ aside {
   float: right;
   }
 footer {
-  border: 1px solid red;
-  height:89px;
+  border: 1px solid orange;
+  height:86px;
   width: 800px;
   float: down;
   clear: both;
