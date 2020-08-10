@@ -63,7 +63,7 @@ footer{
 
 #banco{
 	height: 100%;
-	width: 850px;
+	width: 100%;
 }
 
 p{
@@ -71,7 +71,7 @@ p{
 }
 
 #contactos{
-	margin-top: 15px
+	margin-top: 15px;
 }
 
 .seccion{
