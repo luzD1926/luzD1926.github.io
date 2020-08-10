@@ -1,0 +1,121 @@
+
+#contenedor{
+	margin: auto;
+	height: 780px;
+	width: 850px;
+	margin-top: 20px;
+}
+
+header{
+	height: 120px;
+	width: 850px;
+}
+
+nav{
+	background-color: #FFBD16;
+	height: 60px;
+	width: 850px;
+	margin-bottom: 15px;
+	border-radius: 0px 0px 20px 20px;
+}
+
+#menu{
+	padding-top: 15px;
+}
+
+.navega{
+	display: inline;
+	padding-right: 77px;
+}
+
+
+aside{
+	height: 490px;
+	width: 283px;
+	margin-bottom: 15px;
+	float: left;
+}
+
+#menu{
+	list-style: none;
+}
+
+section{
+	height: 490px;
+	width: 545px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	float: right;
+}
+
+footer{
+	background-color: #232323;
+	color: #716F70;
+	border-radius: 0px 0px 20px 20px;
+	height: 80px;
+	width: 850px;
+	clear: both;
+}
+
+
+#encabezado{
+	height: 100%;
+	width: 100%;
+}
+
+p{
+	padding-top: 12px;
+}
+
+#contactos{
+	margin-top: 15px
+}
+
+.seccion{
+	background-color: #E9E7E8;
+	float: left;
+	border-radius: 15px;
+	height: 235px;
+	width: 262px;
+}
+
+.seccion1{
+	background-color: #E9E7E8;
+	float: right;
+	border-radius: 15px;
+	height: 235px;
+	width: 262px;
+}
+
+.seccion2{
+	background-color: #E9E7E8;
+	float: left;
+	border-radius: 15px;
+	height: 236px;
+	width: 262px;
+	margin-top: 15px;
+}
+
+.seccion3{
+	background-color: #E9E7E8;
+	float: right;
+	border-radius: 15px;
+	height: 236px;
+	width: 262px;
+	margin-top: 15px;
+}
+
+.aparte{
+	background-color: #B2B2B2;
+	margin-bottom: 15px;
+	height: 230px;
+	width: 100%;
+	border-radius: 15px 15px 0px 0px;
+}
+
+.aparte1{
+	background-color: #232323;
+	height: 241px;
+	width: 100%;
+	display: block;
+}
