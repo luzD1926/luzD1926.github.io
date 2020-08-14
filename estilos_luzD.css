@@ -25,11 +25,6 @@ color:#FF7FE0;
     background-color: #00EAB0;
 }
 
-nav div img {
-	height: 5px;
-	width: 6px;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -44,27 +39,27 @@ nav div img {
   padding: 15px;
 }
 
-html {
-  font-family: "Lucida Sans", sans-serif;
-}
+
 
 .header {
   background-color: #9933cc;
-  color: #ffffff;
+  color: #C82A54;
   padding: 15px;
+  
 }
 
 .menu ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  
 }
 
 .menu li {
   padding: 8px;
   margin-bottom: 7px;
   background-color: #33b5e5;
-  color: #ffffff;
+  color: #C82A54;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
@@ -75,7 +70,7 @@ html {
 .aside {
   background-color: #33b5e5;
   padding: 15px;
-  color: #ffffff;
+  color: #C82A54;
   text-align: center;
   font-size: 14px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
@@ -83,7 +78,7 @@ html {
 
 .footer {
   background-color: #0099cc;
-  color: #ffffff;
+  color: #C82A54;
   text-align: center;
   font-size: 12px;
   padding: 15px;
