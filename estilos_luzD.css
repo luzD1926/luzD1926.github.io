@@ -16,7 +16,10 @@ padding-right: 28px;
 }
 
 nav div {
-color:#FF7FE0;	
+color:#FF7FE0;
+display:flex;
+height:40px; 
+
 
 }
 
