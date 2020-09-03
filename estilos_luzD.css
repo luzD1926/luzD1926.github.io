@@ -106,6 +106,8 @@ justify-content:space-between;
   }
 }
 @media only screen and (min-width: 600px) {
+  body {
+    background-color: #FF00C3;
  
   .col-s-1 {width: 8.33%;}
   .col-s-2 {width: 16.66%;}
