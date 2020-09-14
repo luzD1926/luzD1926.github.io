@@ -39,6 +39,7 @@ h5{
 img{
 	display: flex;
 	margin: auto;
+	float:left;
 }
 
 .simbolo{
