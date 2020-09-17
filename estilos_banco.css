@@ -15,7 +15,7 @@
 
 #encabezado{
 	background-color: negro;
-	border-radius: 18px 18px 0px 0px;
+	border-radius: 20px 20px 0px 0px;
 	height: 160px;
 	width: 100%;
 }
@@ -77,7 +77,7 @@ nav{
 	width: 100%;
 	margin-bottom: 15px;
 	border-radius: 0px 0px 20px 20px;
-	color:black;
+	
 }
 
 section{
@@ -92,11 +92,7 @@ article{
 	height: 350px;
 	border-radius: 15px;
 }
-.articulos{
-	background-color: #232323;
-	color: #ffffff;
-	text-align: center;
-	margin-bottom: 10px;
+
 
 footer{
 	background-color: #232323;
