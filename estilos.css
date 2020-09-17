@@ -1,5 +1,5 @@
 *{
-	margin: 0px
+	margin: 2px
 }
 
 h2{
@@ -11,12 +11,10 @@ h2{
 	margin: auto;
 	width: 800px;
 }
-main {
-  border: 1px solid red;
-}
+
 header{
-	height: 130px;
-	width: 750px;
+	height: 100%;
+	width: 800px;
 }
 
 nav{
@@ -25,6 +23,7 @@ nav{
 	width: 800px;
 	margin-bottom: 10px;
 	border-radius: 0px 0px 15px 15px;
+	display: flex;
 }
 
 section{
@@ -63,10 +62,7 @@ footer h5{
 	padding-top: 15px;
 }
 
-header img{
-	height: 100%;
-	width: 800px;	
-}
+
 
 aside header{
 	width: 100%;
