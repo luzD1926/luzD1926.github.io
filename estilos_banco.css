@@ -23,11 +23,7 @@ a{
 	width: 100%;
 }
 
-.texto{
-	float: left;
-	padding: 0px 50px 0px 50px;
-	float: left;
-}
+
 
 h5{
 	background-color: #000000;
@@ -42,9 +38,13 @@ img{
 	
 }
 
-.simbolo{
-	float: right;
-	height: 80%;
+nav{
+	display: flex;
+	background-color: #FFBD16;
+	height: 60px;
+	width: 100%;
+	margin-bottom: 15px;
+	border-radius: 0px 0px 20px 20px;
 }
 
 .bancoop{
