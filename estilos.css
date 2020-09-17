@@ -11,10 +11,12 @@ h2{
 	margin: auto;
 	width: 800px;
 }
-
+main {
+  border: 1px solid;
+}
 header{
 	height: 130px;
-	width: 800px;
+	width: 750px;
 }
 
 nav{
