@@ -52,16 +52,9 @@ nav{
 	float: left;
 }
 
-.titulo{
-	font-size: 60px;
-	font-weight: bold;
-	text-shadow: #555 5px 5px 5px;
-}
 
-.frase{
-	font-size: 20px;
-	color :#0000000
-}
+
+
 
 .espacio{
 	height: 10px;
