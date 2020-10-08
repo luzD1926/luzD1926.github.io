@@ -4,6 +4,7 @@
 	height: 160px;
 	width: 100%;
 }
-.titulo h1:hover{
+
+ titulo h1:hover{
     background-color: #blue;
 }
