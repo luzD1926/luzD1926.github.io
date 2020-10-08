@@ -1,9 +1,9 @@
-#encabezado{
+#contenedor{
 	background-color: #b2b2b2;
 	border-radius: 20px 20px 0px 0px;
 	height: 160px;
 	width: 100%;
 }
-#encabezado:hover{
+#contenedor h1:hover{
 background-color: #blue;
 }
