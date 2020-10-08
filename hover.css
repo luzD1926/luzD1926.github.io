@@ -1,9 +1,9 @@
-#contenedor{
+#titulo{
 
 	background-color: #b2b2b2;
 	height: 160px;
 	width: 100%;
 }
-.contenedor h1:hover{
+.titulo h1:hover{
     background-color: #blue;
 }
