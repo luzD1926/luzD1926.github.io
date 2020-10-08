@@ -4,6 +4,6 @@
 	height: 160px;
 	width: 100%;
 }
-#contenedor h1:hover{
+.contenedor h1:hover{
     background-color: #blue;
 }
