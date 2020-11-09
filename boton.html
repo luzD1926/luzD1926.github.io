@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JavaScript</title>
+</head>
+<body>
+	<form name="calcular">
+		<input type="text" name="n1">
+		<input type="text" name="n2">
+		<input type="text" name="n3">
+		<input type="button" name="oneButton">
+		value="sumar" onClick="sumar(document.calcular.n1.value,document.calcular.n2.value)">
+	</form>
+	<script >
+		function sumar(a,b) {
+			document.calcular.n3.value = Number(a) + Number(b);
+		}
+	</script>
+</body>
+</html>
